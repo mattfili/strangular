@@ -10,6 +10,11 @@ html(lang="en-US" ng-app="strangular")
   body
     .container
       h1 Hello Squirrels
-      p {{2 + 4}} = 6
+      ul
+        li: a(href="/#/") Home
+        li: a(href="/#/about") About
+        li: a(href="/#/contact") Contact
+        li: a(href="/#/login") Log In
+      .app(ng-view)
     script(src="lib/build.js")
     script(src="js/main.js")
