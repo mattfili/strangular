@@ -1,0 +1,19 @@
+{
+  "name": "strangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahYarian/strangular.git"
+  },
+  "author": "Noah Yarian <Noah.Yarian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahYarian/strangular/issues"
+  },
+  "homepage": "https://github.com/NoahYarian/strangular#readme"
+}
