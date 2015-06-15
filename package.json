@@ -27,6 +27,9 @@
     "grunt-contrib-jade": "^0.14.1",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-sass": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-load-plugins": "^0.10.0",
     "load-grunt-tasks": "^3.2.0"
   }
 }
