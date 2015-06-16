@@ -7,14 +7,23 @@ html(lang="en-US" ng-app="strangular")
     title STRANGULAR.JS
     link(rel="stylesheet" href="lib/build.css")
     link(rel="stylesheet" href="css/main.css")
+    // bower:css
+    // endbower
   body
     .container
-      h1 Hello Squirrels
+      h1 Hello Squirrels!
       ul
         li: a(href="/#/") Home
         li: a(href="/#/about") About
         li: a(href="/#/contact") Contact
         li: a(href="/#/login") Log In
       .app(ng-view)
-    script(src="lib/build.js")
+
+
+
     script(src="js/main.js")
+    // bower:js
+    // build:js lib/build.js
+    // endbuild
+    // endbower
+

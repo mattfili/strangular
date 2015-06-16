@@ -40,5 +40,7 @@ var app = angular
         })
     }
 
+    alert('hey')
+
   }]);
 

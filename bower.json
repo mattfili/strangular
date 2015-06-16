@@ -1,9 +1,9 @@
 {
   "name": "strangular",
   "version": "1.0.0",
-  "homepage": "https://github.com/NoahYarian/strangular",
+  "homepage": "https://github.com/mattfili/strangular",
   "authors": [
-    "Noah Yarian <noah.yarian@gmail.com>"
+    "Matt Fili <matthewjosephfili@gmail.com>"
   ],
   "main": "index.html",
   "license": "MIT",
